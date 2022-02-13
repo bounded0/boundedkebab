@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boundedkebab
-- 👀 I’m interested in Back-end
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Back-end,front-end
+- 🌱 I’m currently learning Java-JavaScript
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me ?
 
